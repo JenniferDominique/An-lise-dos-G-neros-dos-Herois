@@ -1,4 +1,4 @@
-# Análise_dos_Gêneros_dos_Herois
+# Análise_de_Dados_dos_Gêneros_dos_Herois
 
 
 # Feito por: Jennifer Dominique e Larissa Olimpio 
